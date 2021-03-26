@@ -262,8 +262,125 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="General",DISCOVERY SCIENCE HD
 http://pn.tvott.info:80/20totLY1KQ/PKINj2UxuY/81015
 
-#EXTINF:-1 group-title="General",DISNEY CHANNEL HD
-http://pn.tvott.info:80/20totLY1KQ/PKINj2UxuY/81029
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://static.epg.best/br/DiscoveryScience.br.png" group-title="USA ",Discovery Science
+http://home-playtv.com:8080/mdprime2/primemd/93520
+
+#EXTINF:-1 tvg-id="" tvg-name="PPVV | WWE NETWORK(Y)" tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe.png" group-title="Sports",PPVV | WWE NETWORK(Y)
+http://home-playtv.com:8080/mdprime2/primemd/33672
+
+#EXTINF:-1 tvg-id="" tvg-name="por: Sport TV NBA" tvg-logo="" group-title="Portugal+",por: Sport TV NBA
+http://home-playtv.com:8080/mdprime2/primemd/56311
+
+#EXTINF:-1 tvg-id="" tvg-name="por: Cartoon Network" tvg-logo="" group-title="Portugal+",por: Cartoon Network
+http://home-playtv.com:8080/mdprime2/primemd/56282
+
+#EXTINF:-1 tvg-id="~ HD NAT GEO" tvg-name="NAT GEO" tvg-logo="https://static.epg.best/us/NatGeo.us.png" group-title="Culture",NAT GEO
+http://home-playtv.com:8080/mdprime2/primemd/53812
+
+#EXTINF:-1 tvg-id="~ SD NAT GEO" tvg-name="Nat Geo HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/640px-Natgeologo.svg.png" group-title="Cultura",Nat Geo HD
+http://home-playtv.com:8080/mdprime2/primemd/53075
+
+#EXTINF:-1 tvg-id="~ HD Nat Geo Kids" tvg-name="Nat Geo Kids" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/640px-Natgeo_Kids_logo.svg.png" group-title="Infantiles",Nat Geo Kids
+http://home-playtv.com:8080/mdprime2/primemd/9425
+
+#EXTINF:-1 tvg-id="~ HD Nat Geo Kids" tvg-name="Nat Geo Kids HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/640px-Natgeo_Kids_logo.svg.png" group-title="Infantiles",Nat Geo Kids HD
+http://home-playtv.com:8080/mdprime2/primemd/36468
+
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO MUNDO " tvg-logo="https://p1.hiclipart.com/preview/323/20/6/tv-channel-icons-pack-nat-geo-mundo-color-png-icon-thumbnail.jpg" group-title="Cultura",NAT GEO MUNDO 
+http://home-playtv.com:8080/mdprime2/primemd/54154
+
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="NAT GEO WILD" tvg-logo="https://static.epg.best/br/NatGeoWild.br.png" group-title="USA ",NAT GEO WILD
+http://home-playtv.com:8080/mdprime2/primemd/108547
+
+#EXTINF:-1 tvg-id="~ HD Nat Geo Wild" tvg-name="Nat Geo Wild " tvg-logo="https://static.epg.best/br/NatGeoWild.br.png" group-title="Culture",Nat Geo Wild 
+http://home-playtv.com:8080/mdprime2/primemd/53185
+
+#EXTINF:-1 tvg-id="SP: NBA TV" tvg-name="NBA TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s45526_ll_h3_ab.png" group-title="NBA",NBA TV HD
+http://home-playtv.com:8080/mdprime2/primemd/55566
+
+#EXTINF:-1 tvg-id="SP: NBA TV" tvg-name="NBA TV op2" tvg-logo="http://home-playtv.com:25461/images/3485cc940cfac4675fee709c1e861143.png" group-title="NBA",NBA TV op2
+http://home-playtv.com:8080/mdprime2/primemd/55567
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="https://static.epg.best/us/MTV.us.png" group-title="USA ",MTV FHD
+http://home-playtv.com:8080/mdprime2/primemd/165509
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/640px-MTV_Logo_2010.svg.png" group-title="Música",MTV HD 
+http://home-playtv.com:8080/mdprime2/primemd/53043
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV U HD" tvg-logo="https://archive.org/download/MusicChoice/music%20choice.jpg" group-title="Music Choice",MTV U HD
+http://home-playtv.com:8080/mdprime2/primemd/176831
+
+#EXTINF:-1 tvg-id="" tvg-name="MUCH MUSIC" tvg-logo="https://archive.org/download/MusicChoice/music%20choice.jpg" group-title="Music Choice",MUCH MUSIC
+http://home-playtv.com:8080/mdprime2/primemd/176829
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://tmsimg.fancybits.co/assets/s10171_ll_h3_ae.png" group-title="USA ",Disney Channel
+http://home-playtv.com:8080/mdprime2/primemd/93439
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="Infantiles",Disney Channel HD
+http://home-playtv.com:8080/mdprime2/primemd/9421
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel Paficic" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png" group-title="Kids",Disney Channel Paficic
+http://home-playtv.com:8080/mdprime2/primemd/181154
+
+#EXTINF:-1 tvg-id="~ SD DISNEY JR" tvg-name="Disney Junior HD " tvg-logo="http://i.ibb.co/56XMCnL/640px-Disney-Junior-svg.png" group-title="Infantiles",Disney Junior HD 
+http://home-playtv.com:8080/mdprime2/primemd/53062
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior Pacific" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png" group-title="Kids",Disney Junior Pacific
+http://home-playtv.com:8080/mdprime2/primemd/181155
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD " tvg-logo="https://tmsimg.fancybits.co/assets/s18279_ll_h3_aa.png" group-title="USA ",Disney XD 
+http://home-playtv.com:8080/mdprime2/primemd/93441
+
+#EXTINF:-1 tvg-id="~ SD DISNEY XD" tvg-name="Disney XD HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/640px-Disney_XD_-_2015.svg.png" group-title="Infantiles",Disney XD HD
+http://home-playtv.com:8080/mdprime2/primemd/9581
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD Pacific" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" group-title="Kids",Disney XD Pacific
+http://home-playtv.com:8080/mdprime2/primemd/181156
+
+#EXTINF:-1 tvg-id="US: NICKTOONS" tvg-name="Nick 2 " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="Infantiles",Nick 2 
+http://home-playtv.com:8080/mdprime2/primemd/9424
+
+#EXTINF:-1 tvg-id="~ HD Nickelodeon" tvg-name="Nick 2 " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="Infantiles",Nick 2 
+http://home-playtv.com:8080/mdprime2/primemd/9577
+
+#EXTINF:-1 tvg-id="~ SD NICK JR" tvg-name="Nick Jr SD " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" group-title="Infantiles",Nick Jr SD 
+http://home-playtv.com:8080/mdprime2/primemd/53065
+
+#EXTINF:-1 tvg-id="~ SD NICKTOONS" tvg-name="Nicktoons " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/640px-Nicktoons_UK_Logo_2010.svg.png" group-title="Infantiles",Nicktoons 
+http://home-playtv.com:8080/mdprime2/primemd/9422
+
+#EXTINF:-1 tvg-id="~ SD NICKTOONS" tvg-name="NICKTOONS " tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids",NICKTOONS 
+http://home-playtv.com:8080/mdprime2/primemd/54403
+
+#EXTINF:-1 tvg-id="Nickelodeon ES" tvg-name="Nicktoons " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/640px-Nicktoons_UK_Logo_2010.svg.png" group-title="Infantiles",Nicktoons 
+http://home-playtv.com:8080/mdprime2/primemd/9575
+
+#EXTINF:-1 tvg-id="CLARO2: FOX CINEMA HD" tvg-name="CINE | FOX Premium Cinema HD " tvg-logo="http://i.ibb.co/Tr1cMmH/FOXPremium-Cinema-LA.png" group-title="Cine Premium",CINE | FOX Premium Cinema HD 
+http://home-playtv.com:8080/mdprime2/primemd/20261
+
+#EXTINF:-1 tvg-id="CLARO2: FOX CLASSICS HD" tvg-name="CINE | FOX Premium Classics HD " tvg-logo="http://i.ibb.co/25K494w/FOXPremium-Classics-LA.png" group-title="Cine Premium",CINE | FOX Premium Classics HD 
+http://home-playtv.com:8080/mdprime2/primemd/53088
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE | Fox Premium Comedy  HD " tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png" group-title="Cine Premium",CINE | Fox Premium Comedy  HD 
+http://home-playtv.com:8080/mdprime2/primemd/73197
+
+#EXTINF:-1 tvg-id="~ SD FOX SERIES" tvg-name="CINE | FOX Premium Series" tvg-logo="http://i.ibb.co/pXVHHJT/Fox-Premium-Series2018.png" group-title="Cine Premium",CINE | FOX Premium Series
+http://home-playtv.com:8080/mdprime2/primemd/53082
+
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="CINE | FOX Premium Series HD" tvg-logo="http://i.ibb.co/pXVHHJT/Fox-Premium-Series2018.png" group-title="Cine Premium",CINE | FOX Premium Series HD
+http://home-playtv.com:8080/mdprime2/primemd/53083
+
+#EXTINF:-1 tvg-id="adultswim.ca" tvg-name="CA Adult Swim(Y)" tvg-logo="http://home-playtv.com:25461/images/9af2d9d2c9c994ec87a05c058158afc9.jpg" group-title="Canadá",CA Adult Swim(Y)
+http://home-playtv.com:8080/mdprime2/primemd/55825
+
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="CA  COMEDY CENTRAL(Y)" tvg-logo="http://home-playtv.com:25461/images/8c440f6e34c1e1a1f767968af609d65f.png" group-title="Canadá",CA  COMEDY CENTRAL(Y)
+http://home-playtv.com:8080/mdprime2/primemd/55819
+
+#EXTINF:-1 tvg-id="" tvg-name="NOT |  Arirang" tvg-logo="http://home-playtv.com:25461/images/4bf771386982d5a4c6c3defe254c94f2.png" group-title="Noticias",NOT |  Arirang
+http://home-playtv.com:8080/mdprime2/primemd/41906
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids",Da Vinci
