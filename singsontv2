@@ -355,6 +355,12 @@ http://home-playtv.com:8080/mdprime2/primemd/54403
 #EXTINF:-1 tvg-id="Nickelodeon ES" tvg-name="Nicktoons " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/640px-Nicktoons_UK_Logo_2010.svg.png" group-title="Infantiles",Nicktoons 
 http://home-playtv.com:8080/mdprime2/primemd/9575
 
+#EXTINF:-1 tvg-id="~ HD Cartoon Network" tvg-name="Cartoon Network " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network 
+http://home-playtv.com:8080/mdprime2/primemd/54404
+
+#EXTINF:-1 tvg-id="~ SD CARTOON NETWORK" tvg-name="Cartoon Network " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network 
+http://home-playtv.com:8080/mdprime2/primemd/19458
+
 #EXTINF:-1 tvg-id="CLARO2: FOX CINEMA HD" tvg-name="CINE | FOX Premium Cinema HD " tvg-logo="http://i.ibb.co/Tr1cMmH/FOXPremium-Cinema-LA.png" group-title="Cine Premium",CINE | FOX Premium Cinema HD 
 http://home-playtv.com:8080/mdprime2/primemd/20261
 
