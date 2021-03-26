@@ -265,13 +265,16 @@ http://pn.tvott.info:80/20totLY1KQ/PKINj2UxuY/81015
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://static.epg.best/br/DiscoveryScience.br.png" group-title="USA ",Discovery Science
 http://home-playtv.com:8080/mdprime2/primemd/93520
 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science2" tvg-logo="https://static.epg.best/br/DiscoveryScience.br.png" group-title="USA ",Discovery Science 2
+http://91.236.251.194:8000/play/a056
+
 #EXTINF:-1 tvg-id="" tvg-name="PPVV | WWE NETWORK(Y)" tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe.png" group-title="Sports",PPVV | WWE NETWORK(Y)
 http://home-playtv.com:8080/mdprime2/primemd/33672
 
 #EXTINF:-1 tvg-id="" tvg-name="por: Sport TV NBA" tvg-logo="" group-title="Portugal+",por: Sport TV NBA
 http://home-playtv.com:8080/mdprime2/primemd/56311
 
-#EXTINF:-1 tvg-id="" tvg-name="por: Cartoon Network" tvg-logo="" group-title="Portugal+",por: Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="por: Cartoon Network" tvg-logo="https://i.ibb.co/jV9yP4n/Pics-Art-10-31-08-15-45.png" group-title="Portugal+",Cartoon Network
 http://home-playtv.com:8080/mdprime2/primemd/56282
 
 #EXTINF:-1 tvg-id="~ HD NAT GEO" tvg-name="NAT GEO" tvg-logo="https://static.epg.best/us/NatGeo.us.png" group-title="Culture",NAT GEO
@@ -360,6 +363,9 @@ http://home-playtv.com:8080/mdprime2/primemd/54404
 
 #EXTINF:-1 tvg-id="~ SD CARTOON NETWORK" tvg-name="Cartoon Network " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network 
 http://home-playtv.com:8080/mdprime2/primemd/19458
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="USA",Cartoon Network 2
+http://91.236.251.194:8000/play/a04o
 
 #EXTINF:-1 tvg-id="CLARO2: FOX CINEMA HD" tvg-name="CINE | FOX Premium Cinema HD " tvg-logo="http://i.ibb.co/Tr1cMmH/FOXPremium-Cinema-LA.png" group-title="Cine Premium",CINE | FOX Premium Cinema HD 
 http://home-playtv.com:8080/mdprime2/primemd/20261
