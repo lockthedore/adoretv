@@ -563,9 +563,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1,NBA-14 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
 
-#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://static.epg.best/br/DiscoveryScience.br.png" group-title="USA ",Discovery Science
-http://nomorecable.xyz:80/k3streams/792817/69066
-
 #EXTINF:-1 tvg-logo="" group-title="Educational",Discovery HD
 http://nomorecable.xyz:80/k3streams/792817/69091
 
@@ -589,6 +586,24 @@ http://nomorecable.xyz:80/k3streams/792817/69066
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Discovery Velocity HD
 http://nomorecable.xyz:80/k3streams/792817/69069
+
+#EXTINF:-1 tvg-logo="" group-title="Educational",Animal Planet HD
+http://nomorecable.xyz:80/k3streams/792817/69299
+
+#EXTINF:-1 tvg-logo="" group-title="Educational",NASA TV
+http://nomorecable.xyz:80/k3streams/792817/74867
+
+#EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO HD
+http://nomorecable.xyz:80/k3streams/792817/69239
+
+#EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO WILD HD
+http://nomorecable.xyz:80/k3streams/792817/69240
+
+#EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Central
+http://nomorecable.xyz:80/k3streams/792817/69082
+
+#EXTINF:-1 tvg-logo="" group-title="Comedy",ADULT SWIM
+http://nomorecable.xyz:80/k3streams/792817/119375
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Food Network HD
 http://nomorecable.xyz:80/k3streams/792817/69016
@@ -626,10 +641,7 @@ http://nomorecable.xyz:80/k3streams/792817/69219
 #EXTINF:-1 tvg-logo="" group-title="Music",POP HD
 http://nomorecable.xyz:80/k3streams/792817/69203
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",BOOMERANG
-http://nomorecable.xyz:80/k3streams/792817/56888
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",CARTOON NETWORK EAST HD
+#EXTINF:-1 tvg-logo="" group-title="Kids", Adult Swim HD
 http://nomorecable.xyz:80/k3streams/792817/69042
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",CARTOONITO ES
@@ -641,26 +653,11 @@ http://nomorecable.xyz:80/k3streams/792817/56882
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY JR
 http://nomorecable.xyz:80/k3streams/792817/56881
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY JR (WEST)
-http://nomorecable.xyz:80/k3streams/792817/69075
-
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY XD
 http://nomorecable.xyz:80/k3streams/792817/56880
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Disney XD WEST
-http://nomorecable.xyz:80/k3streams/792817/69073
-
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK HD
 http://nomorecable.xyz:80/k3streams/792817/56879
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Nick Jr HD
-http://nomorecable.xyz:80/k3streams/792817/69228
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Nick Music
-http://nomorecable.xyz:80/k3streams/792817/69161
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Nickelodeon HD
-http://nomorecable.xyz:80/k3streams/792817/69215
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICKTOONS
 http://nomorecable.xyz:80/k3streams/792817/56876
@@ -677,17 +674,15 @@ http://nomorecable.xyz:80/k3streams/792817/56874
 #EXTINF:-1 tvg-logo="" group-title="Kids",UNIVERSAL KIDS HD
 http://nomorecable.xyz:80/k3streams/792817/56873
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO (EAST)
-http://nomorecable.xyz:80/k3streams/792817/35990
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO PLUS
-http://nomorecable.xyz:80/k3streams/792817/96226
-
 #EXTINF:-1 tvg-logo="" group-title="Movies",Lifetime HD
 http://nomorecable.xyz:80/k3streams/792817/69258
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HDNET Movies
 http://nomorecable.xyz:80/k3streams/792817/96264
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",UFC Network HD
+http://nomorecable.xyz:80/k3streams/792817/96297
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids",Da Vinci
