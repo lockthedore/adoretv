@@ -638,6 +638,9 @@ http://nomorecable.xyz:80/k3streams/792817/69016
 #EXTINF:-1 tvg-logo="" group-title="Educational",Food Network FHD
 http://nomorecable.xyz:80/k3streams/792817/69017
 
+#EXTINF:-1 tvg-logo="" group-title="Educational",Food Network 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
+
 #EXTINF:-1 tvg-logo="" group-title="Educational",FOX HD
 http://nomorecable.xyz:80/k3streams/792817/69030
 
@@ -721,6 +724,9 @@ http://nomorecable.xyz:80/k3streams/792817/96264
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",UFC Network HD
 http://nomorecable.xyz:80/k3streams/792817/96297
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV
+http://rv.imax.re:80/4334276722/8502631953/80959
 
 
 
