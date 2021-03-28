@@ -602,6 +602,9 @@ http://nomorecable.xyz:80/k3streams/792817/69240
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Central
 http://nomorecable.xyz:80/k3streams/792817/69082
 
+#EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Central 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
+
 #EXTINF:-1 tvg-logo="" group-title="Comedy",ADULT SWIM
 http://nomorecable.xyz:80/k3streams/792817/119375
 
@@ -644,17 +647,20 @@ http://nomorecable.xyz:80/k3streams/792817/69203
 #EXTINF:-1 tvg-logo="" group-title="Kids", Adult Swim HD
 http://nomorecable.xyz:80/k3streams/792817/69042
 
+#EXTINF:-1 tvg-logo="" group-title="Kids", Cartoon Network
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+
 #EXTINF:-1 tvg-logo="" group-title="Kids",CARTOONITO ES
 http://nomorecable.xyz:80/k3streams/792817/56886
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY CHANNEL HD
-http://nomorecable.xyz:80/k3streams/792817/56882
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY JR
-http://nomorecable.xyz:80/k3streams/792817/56881
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY XD
-http://nomorecable.xyz:80/k3streams/792817/56880
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK HD
 http://nomorecable.xyz:80/k3streams/792817/56879
