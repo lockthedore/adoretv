@@ -614,6 +614,10 @@ http://nomorecable.xyz:80/k3streams/792817/74867
 #EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO HD
 http://nomorecable.xyz:80/k3streams/792817/69239
 
+#EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO 2
+http://nomorecable.xyz:80/k3streams/792817/69239
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+
 #EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO WILD HD
 http://nomorecable.xyz:80/k3streams/792817/69240
 
@@ -698,6 +702,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK HD
 http://nomorecable.xyz:80/k3streams/792817/56879
 
+#EXTINF:-1 tvg-logo="" group-title="Kids",NICK HD 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICKTOONS
 http://nomorecable.xyz:80/k3streams/792817/56876
 
@@ -725,8 +732,8 @@ http://nomorecable.xyz:80/k3streams/792817/96264
 #EXTINF:-1 tvg-logo="" group-title="Sports",UFC Network HD
 http://nomorecable.xyz:80/k3streams/792817/96297
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV
-http://rv.imax.re:80/4334276722/8502631953/80959
+#EXTINF:-1 tvg-logo="" group-title="Sports",NBA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 
 
 
