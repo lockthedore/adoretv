@@ -684,6 +684,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network West
 http://ajstreamz.xyz:8080/Matt1/matt2/151058
 
+#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network Canada
+http://185.71.64.167:80/307200111611/307200111611/81276
+
 #EXTINF:-1 tvg-logo="" group-title="Kids",CARTOONS 4U
 http://ajstreamz.xyz:8080/Matt1/matt2/151059
 
@@ -725,6 +728,24 @@ http://nomorecable.xyz:80/k3streams/792817/56873
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Lifetime HD
 http://nomorecable.xyz:80/k3streams/792817/69258
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO
+http://185.71.64.167:80/307200111611/307200111611/81216
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO 2
+http://185.71.64.167:80/307200111611/307200111611/81215
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO ZONE HD
+http://185.71.64.167:80/307200111611/307200111611/81214
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO SIGNATURE
+http://185.71.64.167:80/307200111611/307200111611/81213
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO FAMILY HD
+http://185.71.64.167:80/307200111611/307200111611/81212
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO COMEDY HD
+http://185.71.64.167:80/307200111611/307200111611/81211
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HDNET Movies
 http://nomorecable.xyz:80/k3streams/792817/96264
