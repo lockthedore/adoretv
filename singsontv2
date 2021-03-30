@@ -574,6 +574,8 @@ http://nomorecable.xyz:80/k3streams/792817/69239
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO 2
 http://nomorecable.xyz:80/k3streams/792817/69239
+
+#EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO Wild 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO WILD HD
@@ -587,6 +589,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Central 3
 https://kielbasa.live:443/Adam1/Adam1/11844
+
+#EXTINF:-1 tvg-name="Comedy Central Animation" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="USA PLUTO",Comedy Central Animation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="" group-title="Comedy",ADULT SWIM
 http://nomorecable.xyz:80/k3streams/792817/119375
@@ -713,6 +718,13 @@ http://nomorecable.xyz:80/k3streams/792817/96297
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+
+#EXTINF:-1 tvg-logo="" group-title="Korea", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/gljQEfD.png",KBS World
+plugin://plugin.video.youtube/play/?video_id=_82sV2LQP6g
+
 
 
 
