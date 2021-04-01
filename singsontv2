@@ -594,7 +594,7 @@ http://nomorecable.xyz:80/k3streams/792817/69299
 http://ajstreamz.xyz:8080/Matt1/matt2/149845
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",NASA TV
-http://nomorecable.xyz:80/k3streams/792817/74867
+http://nomorecable.xyz:80/vmp343streams/850256/74867
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO HD
 http://nomorecable.xyz:80/vmp343streams/850256/69239
@@ -646,19 +646,19 @@ http://nomorecable.xyz:80/vmp343streams/850256/119398
 http://nomorecable.xyz:80/vmp343streams/850256/119399
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV U
-http://nomorecable.xyz:80/k3streams/792817/69148
+http://nomorecable.xyz:80/vmp343streams/850256/69148
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MY 50
-http://nomorecable.xyz:80/k3streams/792817/119401
+http://nomorecable.xyz:80/vmp343streams/850256/119401
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Reelz TV
-http://nomorecable.xyz:80/k3streams/792817/119400
+http://nomorecable.xyz:80/vmp343streams/850256/119400
 
 #EXTINF:-1 tvg-logo="" group-title="Music",POP
-http://nomorecable.xyz:80/k3streams/792817/69219
+http://nomorecable.xyz:80/vmp343streams/850256/69219
 
 #EXTINF:-1 tvg-logo="" group-title="Music",POP HD
-http://nomorecable.xyz:80/k3streams/792817/69203
+http://nomorecable.xyz:80/vmp343streams/850256/69203
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",CN 1
 http://nomorecable.xyz:80/vmp343streams/850256/69042
@@ -744,11 +744,20 @@ http://nomorecable.xyz:80/vmp343streams/850256/96226
 #EXTINF:-1 tvg-logo="" group-title="Movies",HDNET Movies
 http://nomorecable.xyz:80/vmp343streams/850256/96264
 
+#EXTINF:-1 tvg-logo="" group-title="Movies",Paramount Network
+http://nomorecable.xyz:80/vmp343streams/850256/119404
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",OXYGEN
+http://nomorecable.xyz:80/vmp343streams/850256/48028
+
 #EXTINF:-1 tvg-logo="" group-title="Sports",UFC HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+
+#EXTINF:-1 tvg-logo="" group-title="General",Viceland
+http://nomorecable.xyz:80/vmp343streams/850256/47970
 
 #EXTINF:-1 tvg-logo="" group-title="Korea", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
