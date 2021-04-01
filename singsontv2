@@ -622,7 +622,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://nomorecable.xyz:80/k3streams/792817/69240
 
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Central
-http://nomorecable.xyz:80/k3streams/792817/69082
+http://nomorecable.xyz:80/vmp343streams/850256/69082
 
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Central 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
@@ -631,34 +631,34 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://kielbasa.live:443/Adam1/Adam1/11844
 
 #EXTINF:-1 tvg-logo="" group-title="Comedy",ADULT SWIM
-http://nomorecable.xyz:80/k3streams/792817/119375
+http://nomorecable.xyz:80/vmp343streams/850256/119375
 
 #EXTINF:-1 tvg-logo="" group-title="Comedy",ADULT SWIM 2
 http://ajstreamz.xyz:8080/Matt1/matt2/149727
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Food Network HD
-http://nomorecable.xyz:80/k3streams/792817/69016
+http://nomorecable.xyz:80/vmp343streams/850256/69016
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Food Network FHD
-http://nomorecable.xyz:80/k3streams/792817/69017
+http://nomorecable.xyz:80/vmp343streams/850256/69017
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Food Network 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",FOX HD
-http://nomorecable.xyz:80/k3streams/792817/69030
+http://nomorecable.xyz:80/vmp343streams/850256/69030
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV FHD
-http://nomorecable.xyz:80/k3streams/792817/69244
+http://nomorecable.xyz:80/vmp343streams/850256/69244
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV 2 HD
-http://nomorecable.xyz:80/k3streams/792817/69242
+http://nomorecable.xyz:80/vmp343streams/850256/69242
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV CLASSIC
-http://nomorecable.xyz:80/k3streams/792817/119398
+http://nomorecable.xyz:80/vmp343streams/850256/119398
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV LIVE
-http://nomorecable.xyz:80/k3streams/792817/119399
+http://nomorecable.xyz:80/vmp343streams/850256/119399
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV U
 http://nomorecable.xyz:80/k3streams/792817/69148
@@ -676,7 +676,7 @@ http://nomorecable.xyz:80/k3streams/792817/69219
 http://nomorecable.xyz:80/k3streams/792817/69203
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",CN 1
-http://nomorecable.xyz:80/k3streams/792817/69042
+http://nomorecable.xyz:80/vmp343streams/850256/69042
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
@@ -684,8 +684,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network West
 http://ajstreamz.xyz:8080/Matt1/matt2/151058
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network Canada
-http://185.71.64.167:80/307200111611/307200111611/81276
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",CARTOONS 4U
 http://ajstreamz.xyz:8080/Matt1/matt2/151059
