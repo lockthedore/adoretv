@@ -564,43 +564,28 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1,NBA-14 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Discovery HD
-http://nomorecable.xyz:80/k3streams/792817/69091
+http://nomorecable.xyz:80/vmp343streams/850256/69091
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Discovery HD 2
-http://ajstreamz.xyz:8080/Matt1/matt2/149850
-
-#EXTINF:-1 tvg-logo="" group-title="Educational",DISCOVERY EAST
-http://nomorecable.xyz:80/k3streams/792817/98409
-
-#EXTINF:-1 tvg-logo="" group-title="Educational",DISCOVERY WEST
-http://nomorecable.xyz:80/k3streams/792817/98410
-
-#EXTINF:-1 tvg-logo="" group-title="Educational",DISCOVERY WEST 2
-http://ajstreamz.xyz:8080/Matt1/matt2/149851
+http://nomorecable.xyz:80/vmp343streams/850256/98409
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Discovery Family HD
-http://nomorecable.xyz:80/k3streams/792817/69097
-
-#EXTINF:-1 tvg-logo="" group-title="Educational",Discovery Family HD 2
-http://ajstreamz.xyz:8080/Matt1/matt2/149852
+http://nomorecable.xyz:80/vmp343streams/850256/69097
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",DISCOVERY LIFE
-http://nomorecable.xyz:80/k3streams/792817/98411
+http://nomorecable.xyz:80/vmp343streams/850256/98411
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",DISCOVERY LIFE 2
-http://ajstreamz.xyz:8080/Matt1/matt2/149853
-
-#EXTINF:-1 tvg-logo="" group-title="Educational",Discovery Life HD
-http://nomorecable.xyz:80/k3streams/792817/69063
+http://nomorecable.xyz:80/vmp343streams/850256/69063
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Discovery Science HD
-http://nomorecable.xyz:80/k3streams/792817/69066
+http://nomorecable.xyz:80/vmp343streams/850256/69066
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Discovery Science HD 2
 http://ajstreamz.xyz:8080/Matt1/matt2/149854
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Discovery Velocity HD
-http://nomorecable.xyz:80/k3streams/792817/69069
+http://nomorecable.xyz:80/vmp343streams/850256/69069
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",Animal Planet HD
 http://nomorecable.xyz:80/k3streams/792817/69299
@@ -612,14 +597,14 @@ http://ajstreamz.xyz:8080/Matt1/matt2/149845
 http://nomorecable.xyz:80/k3streams/792817/74867
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO HD
-http://nomorecable.xyz:80/k3streams/792817/69239
+http://nomorecable.xyz:80/vmp343streams/850256/69239
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO 2
 http://nomorecable.xyz:80/k3streams/792817/69239
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 
 #EXTINF:-1 tvg-logo="" group-title="Educational",NAT GEO WILD HD
-http://nomorecable.xyz:80/k3streams/792817/69240
+http://nomorecable.xyz:80/vmp343streams/850256/69240
 
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Central
 http://nomorecable.xyz:80/vmp343streams/850256/69082
@@ -684,9 +669,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network West
 http://ajstreamz.xyz:8080/Matt1/matt2/151058
 
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="Kids",CARTOONS 4U
 http://ajstreamz.xyz:8080/Matt1/matt2/151059
 
@@ -694,22 +676,34 @@ http://ajstreamz.xyz:8080/Matt1/matt2/151059
 http://nomorecable.xyz:80/k3streams/792817/56886
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY CHANNEL HD
+http://nomorecable.xyz:80/vmp343streams/850256/56882
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY CHANNEL HD 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY JR
+http://nomorecable.xyz:80/vmp343streams/850256/56881
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY JR 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY XD
+http://nomorecable.xyz:80/vmp343streams/850256/56880
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY XD 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK HD
-http://nomorecable.xyz:80/k3streams/792817/56879
+http://nomorecable.xyz:80/vmp343streams/850256/56879
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK HD 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
 
+#EXTINF:-1 tvg-logo="" group-title="Kids", Nickelodeon
+http://nomorecable.xyz:80/vmp343streams/850256/69215
+
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICKTOONS
-http://nomorecable.xyz:80/k3streams/792817/56876
+http://nomorecable.xyz:80/vmp343streams/850256/56876
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",PBS
 http://nomorecable.xyz:80/k3streams/792817/56883
@@ -718,7 +712,7 @@ http://nomorecable.xyz:80/k3streams/792817/56883
 http://nomorecable.xyz:80/k3streams/792817/56884
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",TEEN NICK
-http://nomorecable.xyz:80/k3streams/792817/56874
+http://nomorecable.xyz:80/vmp343streams/850256/56874
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",TEEN NICK 2
 http://ajstreamz.xyz:8080/Matt1/matt2/151075
@@ -730,25 +724,25 @@ http://nomorecable.xyz:80/k3streams/792817/56873
 http://nomorecable.xyz:80/k3streams/792817/69258
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
-http://185.71.64.167:80/307200111611/307200111611/81216
+http://nomorecable.xyz:80/vmp343streams/850256/35990
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO 2
-http://185.71.64.167:80/307200111611/307200111611/81215
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO ZONE HD
-http://185.71.64.167:80/307200111611/307200111611/81214
+http://nomorecable.xyz:80/vmp343streams/850256/69038
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO SIGNATURE
-http://185.71.64.167:80/307200111611/307200111611/81213
+http://nomorecable.xyz:80/vmp343streams/850256/96227
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO FAMILY HD
-http://185.71.64.167:80/307200111611/307200111611/81212
+http://nomorecable.xyz:80/vmp343streams/850256/69125
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO COMEDY HD
-http://185.71.64.167:80/307200111611/307200111611/81211
+http://nomorecable.xyz:80/vmp343streams/850256/69033
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Plus
+http://nomorecable.xyz:80/vmp343streams/850256/96226
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HDNET Movies
-http://nomorecable.xyz:80/k3streams/792817/96264
+http://nomorecable.xyz:80/vmp343streams/850256/96264
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",UFC HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
