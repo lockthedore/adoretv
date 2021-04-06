@@ -660,14 +660,17 @@ http://nomorecable.xyz:80/vmp343streams/850256/69219
 #EXTINF:-1 tvg-logo="" group-title="Music",POP HD
 http://nomorecable.xyz:80/vmp343streams/850256/69203
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",CN 1
+#EXTINF:-1 tvg-logo="" group-title="Kids",CN East
 http://nomorecable.xyz:80/vmp343streams/850256/69042
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network ES
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network West
-http://ajstreamz.xyz:8080/Matt1/matt2/151058
+#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network EAST 2
+http://37723998.to:2052/8868/8868/20722
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network EAST 3
+http://37723998.to:2052/8868/8868/170820
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",CARTOONS 4U
 http://ajstreamz.xyz:8080/Matt1/matt2/151059
@@ -702,8 +705,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="" group-title="Kids", Nickelodeon
 http://nomorecable.xyz:80/vmp343streams/850256/69215
 
+#EXTINF:-1 tvg-logo="" group-title="Kids", Nickelodeon 2
+http://37723998.to:2052/8868/8868/170822
+
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICKTOONS
-http://nomorecable.xyz:80/vmp343streams/850256/56876
+http://37723998.to:2052/8868/8868/170823
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",PBS
 http://nomorecable.xyz:80/k3streams/792817/56883
@@ -715,7 +721,7 @@ http://nomorecable.xyz:80/k3streams/792817/56884
 http://nomorecable.xyz:80/vmp343streams/850256/56874
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",TEEN NICK 2
-http://ajstreamz.xyz:8080/Matt1/matt2/151075
+http://37723998.to:2052/8868/8868/170824
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",UNIVERSAL KIDS HD
 http://nomorecable.xyz:80/k3streams/792817/56873
@@ -757,7 +763,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 
 #EXTINF:-1 tvg-logo="" group-title="General",Viceland
-http://nomorecable.xyz:80/vmp343streams/850256/47970
+http://37723998.to:2052/8868/8868/43091
 
 #EXTINF:-1 tvg-logo="" group-title="Korea", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
